@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiA", "WebApiA\WebApiA.csproj", "{1EAED282-115A-44A2-A8F5-6651850DF64A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiB", "WebApiB\WebApiB.csproj", "{96AE67EE-B77F-4AA3-BEDF-3218629E6357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotGateway", "OcelotGateway\OcelotGateway.csproj", "{F87F0AC7-F0FE-4834-987D-B0031148F675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EAED282-115A-44A2-A8F5-6651850DF64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAED282-115A-44A2-A8F5-6651850DF64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAED282-115A-44A2-A8F5-6651850DF64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAED282-115A-44A2-A8F5-6651850DF64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96AE67EE-B77F-4AA3-BEDF-3218629E6357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AE67EE-B77F-4AA3-BEDF-3218629E6357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AE67EE-B77F-4AA3-BEDF-3218629E6357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AE67EE-B77F-4AA3-BEDF-3218629E6357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87F0AC7-F0FE-4834-987D-B0031148F675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87F0AC7-F0FE-4834-987D-B0031148F675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87F0AC7-F0FE-4834-987D-B0031148F675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87F0AC7-F0FE-4834-987D-B0031148F675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5614D147-4E5F-4C89-B72E-3EA71C104738}
+	EndGlobalSection
+EndGlobal
